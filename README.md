@@ -49,7 +49,3 @@ Feel free to modify the source code to customize the game according to your pref
 ## Contributing
 
 If you have ideas for improvements or find any issues, please open an issue or create a pull request. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
