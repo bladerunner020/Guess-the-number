@@ -44,7 +44,7 @@ Make sure you have a C compiler installed on your system. This game was develope
 
 ## Customize
 
-Feel free to modify the source code to customize the game according to your preferences.
+Feel free to modify the source code to customize the game according to your preference.
 
 ## Contributing
 
